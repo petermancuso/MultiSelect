@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Records</string>
+    <string name="action_settings">Settings</string>
+    <string name="record_title_hint">Enter a title for the record.</string>
+    <string name="record_title_label">Title</string>
+    <string name="record_details_label">Details</string>
+    <string name="record_solved_label">Solved</string>
+    <string name="date_picker_title">Date of record:</string>
+    <string name="new_record">New Record</string>
+    <string name="show_subtitle">Show Subtitle</string>
+    <string name="hide_subtitle">Hide Subtitle</string>
+    <string name="subtitle_format">%1$s records</string>
+    <string name="record_suspect_text">Choose Contact</string>
+    <string name="record_report_text">Send Record Report</string>
+    <string name="record_report">%1$s!
+        The record was discovered on %2$s. %3$s, and %4$s
+    </string>
+    <string name="record_report_boolean">The case is check0</string>
+    <string name="record_report_negative">The case is not check0</string>
+    <string name="record_report_empty">there is no contact.</string>
+    <string name="record_report_contact">the contact is %s.</string>
+    <string name="record_report_subject">Record Report</string>
+    <string name="send_report">Send record report via</string>
+</resources>

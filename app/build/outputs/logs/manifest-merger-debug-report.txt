@@ -1,0 +1,90 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\pm\Documents\AndroidStudio\Templates\TwoPaneMasterDetail\app\src\main\AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from C:\Users\pm\Documents\AndroidStudio\Templates\TwoPaneMasterDetail\app\src\main\AndroidManifest.xml:3:11-51
+		INJECTED from C:\Users\pm\Documents\AndroidStudio\Templates\TwoPaneMasterDetail\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\pm\Documents\AndroidStudio\Templates\TwoPaneMasterDetail\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\pm\Documents\AndroidStudio\Templates\TwoPaneMasterDetail\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\pm\Documents\AndroidStudio\Templates\TwoPaneMasterDetail\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\pm\Documents\AndroidStudio\Templates\TwoPaneMasterDetail\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\pm\Documents\AndroidStudio\Templates\TwoPaneMasterDetail\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\pm\Documents\AndroidStudio\Templates\TwoPaneMasterDetail\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\pm\Documents\AndroidStudio\Templates\TwoPaneMasterDetail\app\src\main\AndroidManifest.xml:4:5-6:11
+	android:maxSdkVersion
+		ADDED from C:\Users\pm\Documents\AndroidStudio\Templates\TwoPaneMasterDetail\app\src\main\AndroidManifest.xml:5:22-48
+	android:name
+		ADDED from C:\Users\pm\Documents\AndroidStudio\Templates\TwoPaneMasterDetail\app\src\main\AndroidManifest.xml:4:22-77
+uses-feature#android.hardware.camera
+ADDED from C:\Users\pm\Documents\AndroidStudio\Templates\TwoPaneMasterDetail\app\src\main\AndroidManifest.xml:7:5-9:11
+	android:required
+		ADDED from C:\Users\pm\Documents\AndroidStudio\Templates\TwoPaneMasterDetail\app\src\main\AndroidManifest.xml:8:19-43
+	android:name
+		ADDED from C:\Users\pm\Documents\AndroidStudio\Templates\TwoPaneMasterDetail\app\src\main\AndroidManifest.xml:7:19-57
+application
+ADDED from C:\Users\pm\Documents\AndroidStudio\Templates\TwoPaneMasterDetail\app\src\main\AndroidManifest.xml:11:5-27:19
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\pm\Documents\AndroidStudio\Templates\TwoPaneMasterDetail\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\pm\Documents\AndroidStudio\Templates\TwoPaneMasterDetail\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\pm\Documents\AndroidStudio\Templates\TwoPaneMasterDetail\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\pm\Documents\AndroidStudio\Templates\TwoPaneMasterDetail\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\pm\Documents\AndroidStudio\Templates\TwoPaneMasterDetail\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\pm\Documents\AndroidStudio\Templates\TwoPaneMasterDetail\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\pm\Documents\AndroidStudio\Templates\TwoPaneMasterDetail\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\pm\Documents\AndroidStudio\Templates\TwoPaneMasterDetail\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\pm\Documents\AndroidStudio\Templates\TwoPaneMasterDetail\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from C:\Users\pm\Documents\AndroidStudio\Templates\TwoPaneMasterDetail\app\src\main\AndroidManifest.xml:14:9-41
+	android:supportsRtl
+		ADDED from C:\Users\pm\Documents\AndroidStudio\Templates\TwoPaneMasterDetail\app\src\main\AndroidManifest.xml:15:9-35
+	android:allowBackup
+		ADDED from C:\Users\pm\Documents\AndroidStudio\Templates\TwoPaneMasterDetail\app\src\main\AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from C:\Users\pm\Documents\AndroidStudio\Templates\TwoPaneMasterDetail\app\src\main\AndroidManifest.xml:13:9-43
+	android:theme
+		ADDED from C:\Users\pm\Documents\AndroidStudio\Templates\TwoPaneMasterDetail\app\src\main\AndroidManifest.xml:16:9-40
+activity#io.gforce.templateMasterDetail.RecordListActivity
+ADDED from C:\Users\pm\Documents\AndroidStudio\Templates\TwoPaneMasterDetail\app\src\main\AndroidManifest.xml:17:9-22:20
+	android:name
+		ADDED from C:\Users\pm\Documents\AndroidStudio\Templates\TwoPaneMasterDetail\app\src\main\AndroidManifest.xml:17:19-53
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\pm\Documents\AndroidStudio\Templates\TwoPaneMasterDetail\app\src\main\AndroidManifest.xml:18:13-21:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\pm\Documents\AndroidStudio\Templates\TwoPaneMasterDetail\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from C:\Users\pm\Documents\AndroidStudio\Templates\TwoPaneMasterDetail\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\pm\Documents\AndroidStudio\Templates\TwoPaneMasterDetail\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from C:\Users\pm\Documents\AndroidStudio\Templates\TwoPaneMasterDetail\app\src\main\AndroidManifest.xml:20:27-74
+activity#io.gforce.templateMasterDetail.RecordPagerActivity
+ADDED from C:\Users\pm\Documents\AndroidStudio\Templates\TwoPaneMasterDetail\app\src\main\AndroidManifest.xml:23:9-26:20
+	android:label
+		ADDED from C:\Users\pm\Documents\AndroidStudio\Templates\TwoPaneMasterDetail\app\src\main\AndroidManifest.xml:24:19-51
+	android:parentActivityName
+		ADDED from C:\Users\pm\Documents\AndroidStudio\Templates\TwoPaneMasterDetail\app\src\main\AndroidManifest.xml:25:13-61
+	android:name
+		ADDED from C:\Users\pm\Documents\AndroidStudio\Templates\TwoPaneMasterDetail\app\src\main\AndroidManifest.xml:23:19-54
+uses-sdk
+INJECTED from C:\Users\pm\Documents\AndroidStudio\Templates\TwoPaneMasterDetail\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\pm\Documents\AndroidStudio\Templates\TwoPaneMasterDetail\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\pm\Documents\AndroidStudio\Templates\TwoPaneMasterDetail\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\pm\Documents\AndroidStudio\Templates\TwoPaneMasterDetail\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\pm\Documents\AndroidStudio\Templates\TwoPaneMasterDetail\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\pm\Documents\AndroidStudio\Templates\TwoPaneMasterDetail\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\pm\Documents\AndroidStudio\Templates\TwoPaneMasterDetail\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\pm\Documents\AndroidStudio\Templates\TwoPaneMasterDetail\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\pm\Documents\AndroidStudio\Templates\TwoPaneMasterDetail\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.4.0] C:\Users\pm\Documents\AndroidStudio\Templates\TwoPaneMasterDetail\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\pm\Documents\AndroidStudio\Templates\TwoPaneMasterDetail\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] C:\Users\pm\Documents\AndroidStudio\Templates\TwoPaneMasterDetail\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\pm\Documents\AndroidStudio\Templates\TwoPaneMasterDetail\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\pm\Documents\AndroidStudio\Templates\TwoPaneMasterDetail\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\pm\Documents\AndroidStudio\Templates\TwoPaneMasterDetail\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\pm\Documents\AndroidStudio\Templates\TwoPaneMasterDetail\app\src\main\AndroidManifest.xml
